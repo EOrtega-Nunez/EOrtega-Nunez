@@ -1,7 +1,7 @@
 # Hello, I'm Edward 
 <a href="[https://www.linkedin.com/in/edwardorteganunez/" /></a>
 
-[Brief Introduction]
+## Brief Introduction
 
 I am an IT professional transitioning into cybersecurity with expertise in Active Directory, endpoint security, and network troubleshooting. Currently building hands-on experience in vulnerability assessment, threat detection, and network security, with CompTIA Security+ in progress. Passionate about protecting systems and mitigating risks. Open to entry-level roles like SOC Analyst or Cybersecurity Analyst..
 
