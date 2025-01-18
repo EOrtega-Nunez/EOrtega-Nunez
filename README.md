@@ -1,5 +1,5 @@
 # Hello, I'm Edward 
-<a href="https://www.linkedin.com/in/edwardorteganunez/"> 
+<a href="https://www.linkedin.com/in/edwardorteganunez/">
 
 ## Brief Introduction
 
